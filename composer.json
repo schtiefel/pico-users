@@ -1,0 +1,11 @@
+{
+    "name": "schtiefel/pico-users",
+    "description": "A hierarchical users and rights system plugin for Pico CMS",
+    "require": {
+        "php": "^5.6"
+    },
+    "type": "pico-plugin",
+    "autoload": {
+        "classmap": [ "PicoUsers.php" ]
+    }
+}
